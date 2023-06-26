@@ -14,8 +14,8 @@
 ##
 <div style="display: inline_block"><br>      
  <img align="center" alt="git-gab" height="30" whidth="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
- <img align="center" alt="html-gab" height="30" whidth="40" src="https://cdn-icons-png.flaticon.com/256/1532/1532556.png">
- <img align="center" alt="css-gab" height="30" whidth="40" src="https://logospng.org/wp-content/uploads/css-3.png">
+ <img align="center" alt="html-gab" height="30" whidth="40" src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg">
+ <img align="center" alt="css-gab" height="30" whidth="40" src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg">
  <img align="center" alt="javaScript-gab" height="30" whidth="40" src="https://logospng.org/wp-content/uploads/javascript.png">
 </div>
 
