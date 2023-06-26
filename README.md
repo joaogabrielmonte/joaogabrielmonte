@@ -7,8 +7,8 @@
 -pronome:ele/dele
 <div>
     <a href="http://github.com/joaogabrielmonte">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaogabrielmonte&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielmonte&layout=compact&langs_count=16&theme=black"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaogabrielmonte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielmonte&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
