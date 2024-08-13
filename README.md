@@ -12,12 +12,13 @@
 
 ##
 <div style="display: inline_block"><br>      
- <img align="center" alt="git-gab" height="30" whidth="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
- <img align="center" alt="html-gab" height="30" whidth="40" src="https://cdn-icons-png.flaticon.com/256/1532/1532556.png">
- <img align="center" alt="css-gab" height="30" whidth="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
- <img align="center" alt="javaScript-gab" height="30" whidth="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png">
- <img align="center" alt="PHP" height="30" whidth="40" src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png">
- <img align="center" alt="MYsQL" height="30" whidth="40" src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png">
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 </div>
 
 
