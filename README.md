@@ -15,8 +15,10 @@
 <div style="display: inline_block"><br>      
  <img align="center" alt="git-gab" height="30" whidth="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
  <img align="center" alt="html-gab" height="30" whidth="40" src="https://cdn-icons-png.flaticon.com/256/1532/1532556.png">
- <img align="center" alt="css-gab" height="30" whidth="40" src="https://camo.githubusercontent.com/edc736634dd35b0f4008e2f7db456136b9fc0e1e7a4078bb72c7352b1bdf8a7e/68747470733a2f2f776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667">
+ <img align="center" alt="css-gab" height="30" whidth="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
  <img align="center" alt="javaScript-gab" height="30" whidth="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png">
+ <img align="center" alt="PHP" height="30" whidth="40" src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png">
+ <img align="center" alt="MYsQL" height="30" whidth="40" src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png">
 </div>
 
 
