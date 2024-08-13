@@ -1,10 +1,9 @@
 ### olá, Meu nome é João gabriel
 
--estudante de Analise e Desenvolvimento de Sistemas Na UniFG
--Atualmente cursando o 4° periodo 
--me tornar desenvolvedor full-stack
--atualmente obtendo experiencia em estagio
--pronome:ele/dele
+-Formado em Analise e Desenvolvimento de Sistemas Na UniFG
+-Atualmente Estudante de PHP,MYsQL e ADVPL 
+-Me tornando um desenvolvedor full-stack
+-atualmente em um cargo como desenvolvesor web trabalhando com as linguagens ditas acima
 <div>
     <a href="http://github.com/joaogabrielmonte">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaogabrielmonte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
