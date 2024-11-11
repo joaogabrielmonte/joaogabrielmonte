@@ -1,4 +1,4 @@
-### olá, Meu nome é João gabriel
+### Olá, Meu nome é João Gabriel
 
 -Formado em Analise e Desenvolvimento de Sistemas Na UniFG
 -Atualmente Estudante de PHP,MYsQL e ADVPL 
